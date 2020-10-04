@@ -1,4 +1,4 @@
 # Jobscaper
-![Jobscaper.png]([Jobscaper.png)
+![Jobscraper](Jobscraper.png)
 python jobs parser for ukrainian job sites
 
