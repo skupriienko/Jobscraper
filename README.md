@@ -1,2 +1,2 @@
-# Job-Parser
+# Jobscaper
 python jobs parser for ukrainian job sites
